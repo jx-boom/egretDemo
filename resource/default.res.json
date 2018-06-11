@@ -1,0 +1,28 @@
+{
+	"groups":[
+	{
+		"keys":"bg_jpg,egret_icon_png,description_json",
+		"name":"preload"
+	}],
+	"resources":[
+		{
+	"name": "cartoon-egret_00_png",
+	"type": "image",
+	"url": "cartoon-egret_00.png"
+},
+		{
+			"name":"tim.jpg",
+			"type":"image",
+			"url":"tim.jpg"
+		},
+		{
+			"name":"dog.jpg",
+			"type":"image",
+			"url":"dog.jpg"
+		},
+	{
+		"name":"description_json",
+		"type":"json",
+		"url":"config/description.json"
+	}]
+}
